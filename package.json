@@ -1,0 +1,30 @@
+{
+  "name": "aliensonearth",
+  "version": "1.0.0",
+  "description": "Aliens on Earth website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aliens",
+    "on",
+    "earth",
+    "supernatural",
+    "cryptids",
+    "creepy",
+    "pastas"
+  ],
+  "author": "K.C. Hunter",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-clean": "~0.3.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-ngdocs": "~0.2.10",
+    "gulp-sass": "~2.0.2",
+    "uglify": "~0.1.5",
+    "run-sequence": "~1.1.1",
+    "gulp-uglify": "~1.2.0"
+  }
+}

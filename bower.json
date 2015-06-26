@@ -1,0 +1,32 @@
+{
+  "name": "aliensonearth",
+  "version": "1.0.0",
+  "authors": [
+    "K.C. Hunter <kchunter@connectionseducation.com>"
+  ],
+  "description": "Aliens on Earth website",
+  "main": "index.html",
+  "keywords": [
+    "aliens",
+    "on",
+    "earth",
+    "cryptid",
+    "supernatural",
+    "creepy",
+    "pasta"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.1",
+    "angular-route": "~1.4.1"
+  }
+}
